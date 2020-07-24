@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [@dkb-code-factory](https://github.com/dkb-code-factory) on backend and deployment topics.
+- 💬 Ask me about software development, privacy and Linux.
+- 📫 How to reach me: [@olofnord](twitter.com/olofnord)
+- 😄 Pronouns: https://pronoun.is/he
+
 <!--
 **olof-nord/olof-nord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
