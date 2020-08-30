@@ -1,25 +1,13 @@
-### Hi there 👋
+### Hi there, I am Olof Nord! 👋
 
 - 🔭 I’m currently working as a software engineer at [@dkb-code-factory](https://github.com/dkb-code-factory) on backend and deployment topics.
 - 👯 I’m looking to collaborate on bringing Linux to smartphones and how to stay away from Google.
 - 💬 Ask me about software development, privacy and Linux.
-- 📫 How to reach me: [@olofnord](twitter.com/olofnord)
 - 😄 Pronouns: https://pronoun.is/he
 
-<!--
-**olof-nord/olof-nord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter: olofnord](https://img.shields.io/twitter/follow/olofnord?style=social)](https://twitter.com/olofnord)
+[![Linkedin: olofnord](https://img.shields.io/badge/-olofnord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olofnord/)](https://www.linkedin.com/in/olofnord/)
+[![GitHub olof-nord](https://img.shields.io/github/followers/olof-nord?label=follow&style=social)](https://github.com/olof-nord)
 
 ---
 
