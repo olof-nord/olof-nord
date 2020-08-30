@@ -1,6 +1,6 @@
 ### Hi there, I am Olof Nord! 👋
 
-- 🔭 I’m currently working as a software engineer at [@dkb-code-factory](https://github.com/dkb-code-factory) on backend and deployment topics.
+- 🔭 Software engineer at [@dkb-code-factory](https://github.com/dkb-code-factory).
 - 👯 I’m looking to collaborate on bringing Linux to smartphones and how to stay away from Google.
 - 💬 Ask me about software development, privacy and Linux.
 - 😄 Pronouns: https://pronoun.is/he
