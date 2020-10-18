@@ -1,6 +1,6 @@
 ### Hi there, I am Olof Nord! 👋
 
-- 🔭 Software engineer at [@dkb-code-factory](https://github.com/dkb-code-factory).
+- 🔭 Software engineer at [Berliner Verkehrsbetriebe](https://www.bvg.de/en).
 - 👯 I’m looking to collaborate on bringing Linux to smartphones and how to stay away from Google.
 - 💬 Ask me about software development, privacy and Linux.
 - 😄 Pronouns: https://pronoun.is/he
