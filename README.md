@@ -5,10 +5,10 @@
 
 ---
 ```sh
-❯ 🌎 Website           olof.info  
-❯ 📬 Email             hello@olof.info  
-❯ ✨ Pronouns          https://pronoun.is/he  
-❯ 🐦 Twitter           @olofnord  
-❯ 📰 Linkedin          olofnord  
-❯ 👔 CV                olof.info/cv.pdf  
+❯ 🌎 Website           olof.info
+❯ 📬 Email             hello@olof.info
+❯ ✨ Pronouns          https://pronoun.is/he
+❯ 🐦 Twitter           @olofnord
+❯ 📰 Linkedin          olofnord
+❯ 👔 CV                olof.info/cv
 ```
