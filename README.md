@@ -14,10 +14,3 @@
     <img src="https://img.shields.io/badge/-olofnord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olofnord/">
     <img src="https://img.shields.io/github/followers/olof-nord?label=follow&style=social">
 </p>
-
----
-<p align="center">
-   <a href="https://github.com/olof-nord/github-readme-stats">
-      <img width="60%" alt="Olof's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=olof-nord&show_icons=true&hide_border=true" />
-   </a>
-</p>
