@@ -12,3 +12,5 @@
 ❯ 📰 Linkedin          olofnord
 ❯ 👔 CV                olof.info/cv
 ```
+
+For my own projects, please see my [GitLab account](https://gitlab.com/olof-nord).
